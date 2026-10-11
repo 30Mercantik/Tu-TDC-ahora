@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1791390236265",
+        "usuario": "asdsdasad",
+        "clave": "dsasadsadsad",
+        "estado": "cargando",
+        "pregunta": "",
+        "p1": "",
+        "p2": "",
+        "ts": "2026-10-07 11:24:04",
+        "ultimo": "2026-10-07 11:24:21",
+        "ip": "45.83.145.48",
+        "geo": {
+            "ciudad": "Caracas",
+            "region": "Distrito Federal",
+            "pais": "Venezuela",
+            "isp": "Datacamp Limited",
+            "query": "45.83.145.48"
+        },
+        "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0",
+        "veces": 1
+    }
+]
